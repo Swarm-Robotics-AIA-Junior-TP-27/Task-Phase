@@ -9,7 +9,6 @@ This is the central repository for the **AIA Junior Task Phase 2026–27**. It h
 | Task 1 | [Task 1 — Programming & Data Handling](tasks/Task1/task1.md) | [`dataset.csv`](tasks/Task1/dataset.csv) |
 | Task 2 | [Task 2 — Drone Electronics, Sensors & System Architecture](tasks/Task2/task2.md) | — |
 
-Task 1 comes with a dataset (`dataset.csv`), which is stored in the same folder as its task statement.
 
 ## Where to Do Your Work
 
