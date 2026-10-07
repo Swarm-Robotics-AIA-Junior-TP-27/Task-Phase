@@ -1,0 +1,59 @@
+name: Task Submission
+description: Submit your completed task for review.
+title: "[Task Submission] "
+labels: ["submitted"]
+body:
+  - type: input
+    id: full-name
+    attributes:
+      label: Full Name
+      description: Your full name.
+      placeholder: e.g. Jane Doe
+    validations:
+      required: true
+
+  - type: dropdown
+    id: task-number
+    attributes:
+      label: Task Number
+      description: Which task are you submitting?
+      options:
+        - Task 1
+        - Task 2
+    validations:
+      required: true
+
+  - type: input
+    id: personal-repository-url
+    attributes:
+      label: Personal Repository URL
+      description: The URL of your personal task-phase GitHub repository.
+      placeholder: https://github.com/<your-username>/<your-repository>
+    validations:
+      required: true
+
+  - type: input
+    id: task-folder-url
+    attributes:
+      label: Direct Task Folder URL
+      description: The direct GitHub link to your `Task1` or `Task2` folder (open the folder on GitHub and copy the URL from the address bar).
+      placeholder: https://github.com/<your-username>/<your-repository>/tree/main/Task1
+    validations:
+      required: true
+
+  - type: input
+    id: latest-commit-hash
+    attributes:
+      label: Latest Commit Hash
+      description: The hash of the latest commit that contains the submitted work.
+      placeholder: e.g. a1b2c3d
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: declaration
+    attributes:
+      label: Declaration
+      options:
+        - label: I confirm that I have completed the submitted work and that the linked repository/folder represents my own work.
+          required: true
