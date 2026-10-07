@@ -41,15 +41,6 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: latest-commit-hash
-    attributes:
-      label: Latest Commit Hash
-      description: The hash of the latest commit that contains the submitted work.
-      placeholder: e.g. a1b2c3d
-    validations:
-      required: true
-
   - type: checkboxes
     id: declaration
     attributes:
