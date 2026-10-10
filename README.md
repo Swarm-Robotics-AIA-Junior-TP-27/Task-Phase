@@ -32,6 +32,4 @@ Do all your work in **your own personal GitHub repository**, not in this one.
 3. Open this repository on GitHub.
 4. Go to **Issues → New Issue → Task Submission**.
 5. Fill in the form.
-6. Submit the direct link to the relevant task folder (currently `Task1`) in your repository.
-
-Blank issues are disabled, so the **Task Submission** form is the only way to open a new issue here.
+6. Submit the direct link to the relevant task folder in your repository.
