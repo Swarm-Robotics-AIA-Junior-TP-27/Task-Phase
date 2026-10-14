@@ -6,10 +6,10 @@ This is the central repository for the **AIA Junior Task Phase 2026–27**. It h
 
 | Task | Status | Deadline | Task Statement | Resources |
 | --- | --- | --- | --- | --- |
-| Task 1 | **Current task** | **11 October 2026** | [Task 1 — Programming & Data Handling](tasks/Task1/task1.md) | [`dataset.csv`](tasks/Task1/dataset.csv) |
-| Task 2 | Upcoming | — | [Task 2 — Drone Electronics, Sensors & System Architecture](tasks/Task2/task2.md) | — |
+| Task 1 | Done | — | [Task 1 — Programming & Data Handling](tasks/Task1/task1.md) | [`dataset.csv`](tasks/Task1/dataset.csv) |
+| Task 2 | **Current task** | **21 October 2026** | [Task 2 — Drone Electronics, Sensors & System Architecture](tasks/Task2/task2.md) | — |
 
-**Task 1 is the current task and is due on 11 October 2026.** Task 2 is an upcoming task and is not open for submission yet.
+**Task 2 is the current task and is due on 21 October 2026.**
 
 ## Where to Do Your Work
 
