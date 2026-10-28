@@ -7,10 +7,10 @@ This is the central repository for the **AIA Junior Task Phase 2026–27**. It h
 | Task | Status | Deadline | Task Statement | Resources |
 | --- | --- | --- | --- | --- |
 | Task 1 | Done | — | [Task 1 — Programming & Data Handling](tasks/Task1/task1.md) | [`dataset.csv`](tasks/Task1/dataset.csv) |
-| Task 2 | **Current task** | **21 October 2026** | [Task 2 — Drone Electronics, Sensors & System Architecture](tasks/Task2/task2.md) | — |
-| Task 3 | Future task | — | [Task 3 — ROS 2 Communication and Drone Sensor Monitoring](tasks/Task3/task3.md) | [Requirements & Resources](tasks/Task3/requirements-and-resources.md) |
+| Task 2 | Done | — | [Task 2 — Drone Electronics, Sensors & System Architecture](tasks/Task2/task2.md) | — |
+| Task 3 | **Current task** | **28 October 2026** | [Task 3 — ROS 2 Communication and Drone Sensor Monitoring](tasks/Task3/task3.md) | [Requirements & Resources](tasks/Task3/requirements-and-resources.md) |
 
-**Task 2 is the current task and is due on 21 October 2026.**
+**Task 3 is the current task and is due on 28 October 2026.**
 
 ## Where to Do Your Work
 
